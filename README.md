@@ -1,6 +1,6 @@
 # BusinessEssayWebsite
 
-Website created using Django that displays an essay for my Business History module.
+Website created using Django that displays an essay for my Business History module in different pages.
 
 To use:
 
